@@ -6,7 +6,7 @@
 | Kelas | TI.23.A5 |
 | Mata Kuliah | Bahasa Pemrograman |
 
-### Link Youtobe Penjelasan PROJECT UAS : https://youtu.be/eCffFEohLvE?si=_OBKvpLNTchPmlMT
+### Link Youtube Penjelasan PROJECT UAS : https://youtu.be/eCffFEohLvE?si=_OBKvpLNTchPmlMT
 
 ### Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
 * List opsi pilihan makanan/minuman dan aksi, bisa menggunakan
